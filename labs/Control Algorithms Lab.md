@@ -1,4 +1,5 @@
 # Intro to control algorithms
+## [See it in action!](https://www.youtube.com/watch?v=ZRSFsq6A5L4)
 * **Intro material**
   * https://www.youtube.com/watch?v=4Y7zG48uHRo
   * Note: The same concepts apply to controlling anything, not just cars: Robots, airplanes, etc
