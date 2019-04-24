@@ -8,3 +8,4 @@ Whether driving around Mars or welding cars, all robots have a job. They are rob
     * The Doer listens to the Thinker and SLOWLY follows the instructions
     * The Thinker and Doer must keep their eyes closed
 3. Work together as a robot and navigate your group to the target! Good luck and go slow 
+4. [Go to part 1](https://github.com/sturzl/mvavlabs/blob/master/labs/Three%20Components%20Part%201%20-%20Motor%20Control.md)
